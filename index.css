@@ -13,3 +13,8 @@ h3{
 .heading{
   font-family: cursive;
 }
+
+#linkedin {
+    text-transform: none;
+    font-size: 30px;
+}
